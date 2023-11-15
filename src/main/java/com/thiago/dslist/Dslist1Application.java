@@ -1,11 +1,11 @@
-package com.thiago.aplication;
+package com.thiago.dslist;
 
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 
-@EntityScan(basePackages = "com.thiago.entities")
+@EntityScan(basePackages = "com.thiago.dslist.entities")
 @SpringBootApplication
 public class Dslist1Application {
 
