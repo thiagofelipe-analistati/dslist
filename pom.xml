@@ -10,7 +10,6 @@
 	</parent>
 	<groupId>com.thiago</groupId>
 	<artifactId>dslist-1</artifactId>
-	<version>3.1.5</version>
 	<name>dslist-1</name>
 	<description>Intensivão Java Spring</description>
 	<properties>
